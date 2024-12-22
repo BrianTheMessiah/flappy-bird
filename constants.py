@@ -1,0 +1,23 @@
+# Game Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GREEN = (0, 255, 0)
+RED = (255, 0, 0)
+
+# Bird Settings
+BIRD_WIDTH = 20
+BIRD_HEIGHT = 20
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+
+# Physics Settings
+GRAVITY = 0.5
+JUMP_HEIGHT = -10
+
+# Pipe Settings
+PIPES_WIDTH = 50
+PIPE_GAP = 200
+PIPE_VELOCITY = 2
+
+# Frame Rate
+FPS = 60
